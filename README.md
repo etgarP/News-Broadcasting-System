@@ -60,7 +60,7 @@ make
 ### Run the program with the configuration file as an argument:
 
 ```bash
-./ex3.out config.txt
+./main config.txt
 ```
 ## Files
 
