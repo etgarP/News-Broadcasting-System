@@ -57,6 +57,12 @@ Co-Editor queue size = 17
 ```bash
 make
 ```
+### Run the program with the configuration file as an argument:
+
+```bash
+Copy code
+./ex3.out config.txt
+```
 ## Files
 
 - `main.c`: The entry point of the program.
