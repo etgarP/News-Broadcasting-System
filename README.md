@@ -1,7 +1,5 @@
 # News Broadcasting System - Concurrent Programming & Synchronization
 
-## Project Overview
-
 This project simulates a **news broadcasting system** using concurrent programming and synchronization techniques. The system consists of four main components: Producers, Dispatcher, Co-Editors, and Screen Manager, each communicating via thread-safe queues.
 
 ## Components
